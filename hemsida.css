@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+table, th, td{
+    border-collapse: collapse;
+    border: 5px solid black;
+    padding: 10px;
+}
+th{
+    background-color: lightblue;
+}
+td{
+    background-color: lightblue;
+}
+img {
+    width: 400px;
+}
